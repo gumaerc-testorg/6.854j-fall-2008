@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to a problem set on advanced algorithms.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-854j-advanced-algorithms-fall-2008/4004fe272abc830c274663ab7d107daf_solution3.pdf
+file: /media/courses/6-854j-advanced-algorithms-fall-2008/4004fe272abc830c274663ab7d107daf_solution3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set Solution 3
 uid: 4004fe27-2abc-830c-2746-63ab7d107daf

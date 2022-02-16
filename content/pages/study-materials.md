@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 0c7799cb-567d-771c-67b5-02098ae5d848
 ---
@@ -285,7 +287,7 @@ AA: MAXCUT, SDP-based 0.878-approximation algorithm
 21
 {{< tdclose >}}
 {{< tdopen >}}
-AA: polynomial approximation schemes, scheduling problem: P||Cmax
+AA: polynomial approximation schemes, scheduling problem: P||C{{< sub "max" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lect12_3))

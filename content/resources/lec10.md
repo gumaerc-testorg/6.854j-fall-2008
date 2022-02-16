@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on the standard dual form of a linear program, the geometry
   of linear programming, and a basic sketch of the simplex method.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-854j-advanced-algorithms-fall-2008/302900e3a66f2a3b9c9f31bf91cd31fe_lec10.pdf
+file: /media/courses/6-854j-advanced-algorithms-fall-2008/302900e3a66f2a3b9c9f31bf91cd31fe_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 10
 uid: 302900e3-a66f-2a3b-9c9f-31bf91cd31fe
