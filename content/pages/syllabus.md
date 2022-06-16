@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, and an outline of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +31,7 @@ There will be biweekly problem sets and students will also be expected to take t
 Textbook
 --------
 
-There is no textbook required for the course. [Lecture notes]({{< baseurl >}}/pages/lecture-notes) are available for the current term as well as selected lecture notes from a [previous term]({{< baseurl >}}/pages/study-materials). Reference textbooks for each topic are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+There is no textbook required for the course. {{% resource_link 866e0dee-f82c-f3ac-581d-e1acfc121850 "Lecture notes" %}} are available for the current term as well as selected lecture notes from a {{% resource_link 0c7799cb-567d-771c-67b5-02098ae5d848 "previous term" %}}. Reference textbooks for each topic are listed in the {{% resource_link dc5c564c-0e0e-a3e2-e898-21e0a2a0067e "readings" %}} section.
 
 Course Outline
 --------------
