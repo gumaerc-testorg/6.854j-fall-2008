@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dc5c564c-0e0e-a3e2-e898-21e0a2a0067e
 ---
 
-There is no textbook required for the course. [Lecture notes]({{< baseurl >}}/pages/lecture-notes) are available for the current term as well as selected lecture notes from a [previous term]({{< baseurl >}}/pages/study-materials). Reference textbooks for each topic are listed in the table below.  Lecture notes also contain references.
+There is no textbook required for the course. {{% resource_link 866e0dee-f82c-f3ac-581d-e1acfc121850 "Lecture notes" %}} are available for the current term as well as selected lecture notes from a {{% resource_link 0c7799cb-567d-771c-67b5-02098ae5d848 "previous term" %}}. Reference textbooks for each topic are listed in the table below.  Lecture notes also contain references.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -79,7 +83,7 @@ Convex programming
 
  Boyd, Stephen, and Lieven Vandenberghe. _Convex Optimization_ . Cambridge, UK: Cambridge Univ. Press, 2005. ISBN: 9780521833783
 
-Nemirovski, Arkadi. "Lectures on Modern Convex Optimization." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7 MB](https://www.researchgate.net/publication/215601297_Lectures_on_Modern_Convex_Optimization))
+Nemirovski, Arkadi. "Lectures on Modern Convex Optimization." ([PDF - 2.7 MB](https://www.researchgate.net/publication/215601297_Lectures_on_Modern_Convex_Optimization))
 
 
 {{< tdclose >}}
