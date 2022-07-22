@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2008/959360fe38fbe63f90260492161a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set Solution 4
 uid: 959360fe-38fb-e63f-9026-0492161a3f89
 ---
 Solutions to a problem set on advanced algorithms.
-

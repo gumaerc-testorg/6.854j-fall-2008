@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2008/ca8992b7f1663874f1724dd793a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 15: Interior Point Algorithms for Conic Programming'
 uid: ca8992b7-f166-3874-f172-4dd793a2967a
 ---
 Lecture notes on interior point algorithms for conic programming.
-

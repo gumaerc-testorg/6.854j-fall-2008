@@ -8,6 +8,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2008/6c53462d9af606e71fa8950a51df
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 6c53462d-9af6-06e7-1fa8-950a51dfccfa
 ---
 Lecture notes on the Goldberg-Tarjan min-cost circulation algorithm, Klein’s cycle cancelling algorithm for finding the circulation of minimum
 cost in greater detail, bounding the number of iterations, analysis for integer-valued costs, and strongly polynomial analysis.
-

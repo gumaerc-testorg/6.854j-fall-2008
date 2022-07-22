@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2008/0eef690adf10b98bffd65d541551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Approximaion Algorithms: MAXCUT'
 uid: 0eef690a-df10-b98b-ffd6-5d5415516412
 ---
 Lecture notes on the MAX-CUT problem, local search, the random cut, LP relaxation, and SDP relaxation.
-

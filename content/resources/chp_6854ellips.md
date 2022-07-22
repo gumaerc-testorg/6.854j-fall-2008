@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Ellipses on an axis
 uid: ee39ea7d-cb1c-9b8e-a737-25f0562d8146
 ---
 One iteration of the ellipsoid algorithm. (Image courtesy of Reina Riemann.)
-

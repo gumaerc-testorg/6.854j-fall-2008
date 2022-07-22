@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2008/10ad543e5ab70c642a82341b3fb0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Network Flows
 uid: 10ad543e-5ab7-0c64-2a82-341b3fb0d5f3
 ---
 Lecture notes on network flows, the shortest path problem, and the maximum flow problem.
-
