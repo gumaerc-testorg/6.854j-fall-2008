@@ -5,6 +5,7 @@ description: "Lecture notes on the Goldberg-Tarjan min-cost circulation algorith
   \ncost in greater detail, bounding the number of iterations, analysis for integer-valued\
   \ costs, and strongly polynomial analysis."
 file: /courses/6-854j-advanced-algorithms-fall-2008/6c53462d9af606e71fa8950a51dfccfa_lec4.pdf
+file_size: 125616
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

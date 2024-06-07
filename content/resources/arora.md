@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on an approximation scheme for the Euclidean traveling
   salesman problem.
 file: /courses/6-854j-advanced-algorithms-fall-2008/fd44e12e278f7793b782718bfa8b19bf_arora.pdf
+file_size: 1306120
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,7 @@ description: Lecture notes on network flows, the single source shortest path pro
   algorithm, the Goldberg-Tarjan algorithm, a faster cycle-canceling algorithm, and
   a strongly polynomial bound.
 file: /courses/6-854j-advanced-algorithms-fall-2008/4064d889e5033a9915327a777d12b592_notes_flow.pdf
+file_size: 3201830
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

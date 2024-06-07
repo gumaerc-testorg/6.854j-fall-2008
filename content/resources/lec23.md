@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Voronoi diagrams.
 file: /courses/6-854j-advanced-algorithms-fall-2008/e96fc60821d294f93d0328c07be67958_lec23.pdf
+file_size: 241208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
