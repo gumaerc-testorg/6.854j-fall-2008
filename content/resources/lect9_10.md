@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on vertices of polyhedral sets, bases and basic feasible
   solutions, the simplex method, and duality in linear programming.
 file: /courses/6-854j-advanced-algorithms-fall-2008/dda50fbe3e77d5268607508f6039369d_lect9_10.pdf
+file_size: 514330
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on minimum cost circulation problem, the Goldberg-Tarjan
   algorithm, the Cancel-and-Tighten algorithm, splay trees, and dynamic trees.
 file: /courses/6-854j-advanced-algorithms-fall-2008/0d3338683064d96b5174095829043b93_lec5.pdf
+file_size: 182452
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

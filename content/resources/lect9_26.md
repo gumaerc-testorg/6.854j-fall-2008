@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on applying the ellipsoid algorithm to linear programming.
 file: /courses/6-854j-advanced-algorithms-fall-2008/bc621c481eecc9cb9c645eb44538a7f3_lect9_26.pdf
+file_size: 646212
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

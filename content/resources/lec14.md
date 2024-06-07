@@ -4,6 +4,7 @@ description: Lecture notes on linear programming, semidefinite programming, coni
   programming, using interior point algorithms for solving linear programs, and convex
   programs.
 file: /courses/6-854j-advanced-algorithms-fall-2008/b55ba133484c493b02b2f442643b8508_lec14.pdf
+file_size: 193130
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
