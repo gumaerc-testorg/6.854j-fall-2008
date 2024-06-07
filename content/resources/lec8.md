@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on dynamic trees.
 file: /courses/6-854j-advanced-algorithms-fall-2008/5cccdb7dca0aa81810781ba75d0a1d46_lec8.pdf
+file_size: 198525
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

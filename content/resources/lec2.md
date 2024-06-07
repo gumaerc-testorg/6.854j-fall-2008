@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on network flows, the shortest path problem, and the maximum
   flow problem.
 file: /courses/6-854j-advanced-algorithms-fall-2008/10ad543e5ab70c642a82341b3fb0d5f3_lec2.pdf
+file_size: 418948
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

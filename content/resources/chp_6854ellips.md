@@ -2,6 +2,7 @@
 content_type: resource
 description: One iteration of the ellipsoid algorithm. (Image courtesy of Reina Riemann.)
 file: /courses/6-854j-advanced-algorithms-fall-2008/ee39ea7dcb1c9b8ea73725f0562d8146_chp_6854ellips.jpg
+file_size: 31174
 file_type: image/jpeg
 image_metadata:
   caption: ''

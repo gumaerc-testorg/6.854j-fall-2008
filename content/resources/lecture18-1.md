@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the generalized Steiner tree problem, the Goemans-Williamson
   algorithm, correctness of the algorithm, implementation, and generalizations.
 file: /courses/6-854j-advanced-algorithms-fall-2008/17add9ff47b702333413ea2cce0c26cb_lecture18.pdf
+file_size: 592472
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

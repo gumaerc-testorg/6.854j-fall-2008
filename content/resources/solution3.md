@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on advanced algorithms.
 file: /courses/6-854j-advanced-algorithms-fall-2008/4004fe272abc830c274663ab7d107daf_solution3.pdf
+file_size: 1092401
 file_type: application/pdf
 learning_resource_types:
 - Assignments
