@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on interior point algorithms for conic programming.
-file: /courses/6-854j-advanced-algorithms-fall-2008/ca8992b7f1663874f1724dd793a2967a_lec15.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/ca8992b7f1663874f1724dd793a2967a_lec15.pdf
 file_size: 270918
 file_type: application/pdf
 learning_resource_types:

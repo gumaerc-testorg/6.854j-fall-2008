@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on maximum flows, the fattest path augmenting algorithm,
   an improvement over the Ford-Fulkerson algorithm, and the minimum cost circulation
   problem.
-file: /courses/6-854j-advanced-algorithms-fall-2008/84ea6cf153a2841c6fb7d25812bd69ff_lec3.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/84ea6cf153a2841c6fb7d25812bd69ff_lec3.pdf
 file_size: 217748
 file_type: application/pdf
 learning_resource_types:

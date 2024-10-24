@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on approximation algorithms (max-cut), the generalized
   Steiner tree problem, the Goemans-Williamson algorithm, implementation, and generalizations.
-file: /courses/6-854j-advanced-algorithms-fall-2008/267667de25d270ac896e139d24e3b6cc_lecture18.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/267667de25d270ac896e139d24e3b6cc_lecture18.pdf
 file_size: 122508
 file_type: application/pdf
 learning_resource_types:
