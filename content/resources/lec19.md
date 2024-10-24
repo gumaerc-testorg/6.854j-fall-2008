@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on MAXCUT, SPARSEST-CUT, multicommodity flows, metrics,
   and finite metric spaces.
-file: /courses/6-854j-advanced-algorithms-fall-2008/eb80bd28ceaeba2608039a00db04292b_lec19.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/eb80bd28ceaeba2608039a00db04292b_lec19.pdf
 file_size: 153828
 file_type: application/pdf
 learning_resource_types:
