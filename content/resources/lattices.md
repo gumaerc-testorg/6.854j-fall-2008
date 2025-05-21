@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on lattices, combinatorial application, the shortest lattice
   vector problem (SLVP), the minimum basis problem, Gram-Schmidt decomposition, Lovasz-reduced
   bases, the Lenstra-Lenstra-Lovasz basis reduction algorithm, and diophantine approximation.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/0bdb770204c2dabe6e94ea981b8a5784_lattices.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/0bdb770204c2dabe6e94ea981b8a5784_lattices.pdf
 file_size: 2275769
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on approximation algorithms, the facility location problem,
   the primal-dual approach, and the local search based approach.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/c5d1e69ef4a0d4f283829bc4fbacb0c3_lec17.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/c5d1e69ef4a0d4f283829bc4fbacb0c3_lec17.pdf
 file_size: 130778
 file_type: application/pdf
 learning_resource_types:

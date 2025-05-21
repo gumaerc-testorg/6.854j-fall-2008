@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on linear programming and the ellipsoid algorithm.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/72e3bdf718c625bc850cdab40b416516_lec11.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/72e3bdf718c625bc850cdab40b416516_lec11.pdf
 file_size: 120848
 file_type: application/pdf
 learning_resource_types:

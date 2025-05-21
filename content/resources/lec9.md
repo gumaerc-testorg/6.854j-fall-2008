@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on linear programming.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/c61e649bf05c7123da984519955da0bd_lec9.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/c61e649bf05c7123da984519955da0bd_lec9.pdf
 file_size: 170978
 file_type: application/pdf
 learning_resource_types:
