@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on advanced algorithms.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/7c1e4b71e427918687f9560c1f5fc500_solution2.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/7c1e4b71e427918687f9560c1f5fc500_solution2.pdf
 file_size: 1360495
 file_type: application/pdf
 learning_resource_types:

@@ -5,7 +5,7 @@ description: Lecture notes on network flows, the single source shortest path pro
   problem, bipartite matching, a circulation of minimum cost, Klein's cycle canceling
   algorithm, the Goldberg-Tarjan algorithm, a faster cycle-canceling algorithm, and
   a strongly polynomial bound.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/4064d889e5033a9915327a777d12b592_notes_flow.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/4064d889e5033a9915327a777d12b592_notes_flow.pdf
 file_size: 3201830
 file_type: application/pdf
 learning_resource_types: []

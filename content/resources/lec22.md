@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on using Seidel\u2019s algorithm to solve linear programs\
   \ and to develop a randomized convex-hull algorithm."
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/71133dab90093bf1d9acf368ade8d6be_lec22.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/71133dab90093bf1d9acf368ade8d6be_lec22.pdf
 file_size: 143514
 file_type: application/pdf
 learning_resource_types:

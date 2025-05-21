@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on two applications of the ellipsoid method: linear programming
   without an explicit linear program, and semidefinite programming.'
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/4800ea49c590324e01b1d37af25aacee_lec13.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/4800ea49c590324e01b1d37af25aacee_lec13.pdf
 file_size: 177399
 file_type: application/pdf
 learning_resource_types:

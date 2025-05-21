@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on splay trees, splay tree structure, running-time analysis,
   and comparison to other binary search trees.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/921232cb9a69015c50002ff5ea6a9824_lec6.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/921232cb9a69015c50002ff5ea6a9824_lec6.pdf
 file_size: 241622
 file_type: application/pdf
 learning_resource_types:
