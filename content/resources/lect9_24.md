@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on linear programming  (LP) duality, size of LP, complexity
   of LP, and the ellipsoid algorithm.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/6713f99d2b7c4c6adfc645c33b835059_lect9_24.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/6713f99d2b7c4c6adfc645c33b835059_lect9_24.pdf
 file_size: 730479
 file_type: application/pdf
 learning_resource_types: []

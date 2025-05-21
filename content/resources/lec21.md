@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on convex hulls and fixed dimension linear programming.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/6a4aacead56926dd46746f48ebd3415f_lec21.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/6a4aacead56926dd46746f48ebd3415f_lec21.pdf
 file_size: 228489
 file_type: application/pdf
 learning_resource_types:

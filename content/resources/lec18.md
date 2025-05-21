@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the MAX-CUT problem, local search, the random cut, LP
   relaxation, and SDP relaxation.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/0eef690adf10b98bffd65d5415516412_lec18.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2008/0eef690adf10b98bffd65d5415516412_lec18.pdf
 file_size: 206301
 file_type: application/pdf
 learning_resource_types:
