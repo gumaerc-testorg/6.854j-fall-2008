@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on advanced algorithms.
-file: /courses/6-854j-advanced-algorithms-fall-2008/654f3b7afb5220c2aeb066bc47269283_homework6.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/654f3b7afb5220c2aeb066bc47269283_homework6.pdf
 file_size: 287170
 file_type: application/pdf
 learning_resource_types:
