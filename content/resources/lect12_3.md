@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on polynomial approximation schemes.
-file: /courses/6-854j-advanced-algorithms-fall-2008/2b34d87bbcf2647115b9b33bedf698bc_lect12_3.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2008/2b34d87bbcf2647115b9b33bedf698bc_lect12_3.pdf
 file_size: 386441
 file_type: application/pdf
 learning_resource_types: []
